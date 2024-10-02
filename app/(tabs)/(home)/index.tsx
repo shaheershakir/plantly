@@ -9,7 +9,6 @@ import { useRouter } from "expo-router";
 export default function App() {
   const router = useRouter();
   const plants = usePlantStore((state) => state.plants);
-  console.log(plants);
 
   return (
     <FlatList
