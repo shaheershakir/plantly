@@ -1,6 +1,5 @@
 import { theme } from "@/theme";
 import AntDesign from "@expo/vector-icons/AntDesign";
-import { initial } from "expo-quick-actions";
 import { Link, Stack } from "expo-router";
 import { Pressable } from "react-native";
 
